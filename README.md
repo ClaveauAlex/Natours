@@ -69,7 +69,7 @@ Tout d'abord, je vais vous expliquer le pourquoi du comment j'ai décidé de dé
 ### Développé avec
 
 - [CSS](https://developer.mozilla.org/fr/docs/Web/CSS)
-- [HTML](https://developer.mozilla.org/fr/docs/Web/HTML)]
+- [HTML](https://developer.mozilla.org/fr/docs/Web/HTML)
 <!-- * []()
 - []() -->
 
