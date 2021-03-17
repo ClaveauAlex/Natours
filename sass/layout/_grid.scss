@@ -1,6 +1,5 @@
 .row {
   max-width: $grid-width;
-  background-color: #eee;
   margin: 0 auto; // ceter the block element in the center
 
   &:not(:last-child) {
@@ -14,7 +13,6 @@
     // ^= cible les balises ayant une classe qui commence par "col-"
     // *= cible toutes les classes contenant "col-"
     // $= cible les balises ayant une classe qui se termine par "col-"
-    background-color: orangered;
     float: left;
 
     &:not(:last-child) {
